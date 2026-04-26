@@ -1,66 +1,66 @@
 {
-    "updatedAt": "2026-04-26T02:00:07.421860323Z",
+    "updatedAt": "2026-04-26T03:00:07.216286243Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
-            "temperature": 17.9,
-            "measuredAt": "2026-04-26T01:00:00Z",
+            "temperature": 18.2,
+            "measuredAt": "2026-04-26T02:00:00Z",
             "weather": {
                 "code": 800,
                 "description": "맑음",
                 "icon": "01d",
                 "temperature": {
-                    "actual": 20.04,
-                    "feelsLike": 18.78
+                    "actual": 22.01,
+                    "feelsLike": 20.87
                 },
                 "pressure": 1014,
-                "humidity": 26,
+                "humidity": 23,
                 "visibility": 10000,
-                "windSpeed": 2.06,
-                "windDirection": 360,
-                "sunrise": 1777149817,
-                "sunset": 1777198596
+                "windSpeed": 2.57,
+                "windDirection": 330,
+                "sunrise": 1777149818,
+                "sunset": 1777198598
             }
         },
         {
             "site": "ANYANGCHEON",
-            "temperature": 17.9,
-            "measuredAt": "2026-04-26T01:00:00Z",
+            "temperature": 19.3,
+            "measuredAt": "2026-04-26T02:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
                 "icon": "03d",
                 "temperature": {
-                    "actual": 19.9,
-                    "feelsLike": 18.68
+                    "actual": 21.06,
+                    "feelsLike": 19.72
                 },
-                "pressure": 1015,
-                "humidity": 28,
+                "pressure": 1014,
+                "humidity": 19,
                 "visibility": 10000,
-                "windSpeed": 3.09,
-                "windDirection": 60,
+                "windSpeed": 1.54,
+                "windDirection": 220,
                 "sunrise": 1777149824,
-                "sunset": 1777198577
+                "sunset": 1777198579
             }
         },
         {
             "site": "JUNGNANGCHEON",
-            "temperature": 19.1,
-            "measuredAt": "2026-04-26T01:00:00Z",
+            "temperature": 19.3,
+            "measuredAt": "2026-04-26T02:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
                 "icon": "03d",
                 "temperature": {
-                    "actual": 20.02,
-                    "feelsLike": 18.81
+                    "actual": 21.08,
+                    "feelsLike": 19.74
                 },
                 "pressure": 1014,
-                "humidity": 28,
+                "humidity": 19,
                 "visibility": 10000,
-                "windSpeed": 3.09,
-                "windDirection": 60,
+                "windSpeed": 1.54,
+                "windDirection": 220,
                 "sunrise": 1777149772,
                 "sunset": 1777198561
             }
@@ -68,22 +68,22 @@
         {
             "site": "TANCHEON",
             "temperature": 0.0,
-            "measuredAt": "2026-04-26T01:00:00Z",
+            "measuredAt": "2026-04-26T02:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
                 "icon": "03d",
                 "temperature": {
-                    "actual": 20.11,
-                    "feelsLike": 18.91
+                    "actual": 21.15,
+                    "feelsLike": 19.82
                 },
                 "pressure": 1014,
-                "humidity": 28,
+                "humidity": 19,
                 "visibility": 10000,
-                "windSpeed": 3.09,
-                "windDirection": 60,
+                "windSpeed": 1.54,
+                "windDirection": 220,
                 "sunrise": 1777149780,
-                "sunset": 1777198555
+                "sunset": 1777198556
             }
         }
     ]
