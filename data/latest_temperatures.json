@@ -1,24 +1,24 @@
 {
-    "updatedAt": "2026-04-28T00:00:11.388785054Z",
+    "updatedAt": "2026-04-28T01:00:11.499684450Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
             "temperature": 17.8,
-            "measuredAt": "2026-04-27T23:00:00Z",
+            "measuredAt": "2026-04-28T00:00:00Z",
             "weather": {
                 "code": 803,
                 "description": "튼구름",
                 "icon": "04d",
                 "temperature": {
-                    "actual": 12.06,
-                    "feelsLike": 11.59
+                    "actual": 13.06,
+                    "feelsLike": 12.41
                 },
-                "pressure": 1012,
-                "humidity": 87,
+                "pressure": 1013,
+                "humidity": 76,
                 "visibility": 10000,
-                "windSpeed": 5.14,
-                "windDirection": 270,
+                "windSpeed": 3.6,
+                "windDirection": 280,
                 "sunrise": 1777322471,
                 "sunset": 1777371509
             }
@@ -26,19 +26,19 @@
         {
             "site": "ANYANGCHEON",
             "temperature": 17.4,
-            "measuredAt": "2026-04-27T23:00:00Z",
+            "measuredAt": "2026-04-28T00:00:00Z",
             "weather": {
                 "code": 701,
                 "description": "박무",
                 "icon": "50d",
                 "temperature": {
-                    "actual": 11.81,
-                    "feelsLike": 11.19
+                    "actual": 12.05,
+                    "feelsLike": 11.45
                 },
-                "pressure": 1012,
+                "pressure": 1013,
                 "humidity": 82,
-                "visibility": 6000,
-                "windSpeed": 3.6,
+                "visibility": 9000,
+                "windSpeed": 2.57,
                 "windDirection": 230,
                 "sunrise": 1777322479,
                 "sunset": 1777371489
@@ -46,29 +46,29 @@
         },
         {
             "site": "JUNGNANGCHEON",
-            "temperature": 18.2,
-            "measuredAt": "2026-04-27T23:00:00Z",
+            "temperature": 18.0,
+            "measuredAt": "2026-04-28T00:00:00Z",
             "weather": {
                 "code": 701,
                 "description": "박무",
                 "icon": "50d",
                 "temperature": {
-                    "actual": 12.02,
-                    "feelsLike": 11.42
+                    "actual": 12.11,
+                    "feelsLike": 11.52
                 },
-                "pressure": 1012,
+                "pressure": 1013,
                 "humidity": 82,
-                "visibility": 6000,
-                "windSpeed": 3.6,
+                "visibility": 9000,
+                "windSpeed": 2.57,
                 "windDirection": 230,
-                "sunrise": 1777322425,
-                "sunset": 1777371472
+                "sunrise": 1777322426,
+                "sunset": 1777371473
             }
         },
         {
             "site": "TANCHEON",
             "temperature": 0.0,
-            "measuredAt": "2026-04-27T23:00:00Z",
+            "measuredAt": "2026-04-28T00:00:00Z",
             "weather": {
                 "code": 701,
                 "description": "박무",
@@ -77,10 +77,10 @@
                     "actual": 12.12,
                     "feelsLike": 11.53
                 },
-                "pressure": 1012,
+                "pressure": 1013,
                 "humidity": 82,
-                "visibility": 6000,
-                "windSpeed": 3.6,
+                "visibility": 9000,
+                "windSpeed": 2.57,
                 "windDirection": 230,
                 "sunrise": 1777322434,
                 "sunset": 1777371467
