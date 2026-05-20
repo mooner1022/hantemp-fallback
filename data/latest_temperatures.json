@@ -1,87 +1,87 @@
 {
-    "updatedAt": "2026-05-20T22:59:59.549653573Z",
+    "updatedAt": "2026-05-20T23:59:58.769760319Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
-            "temperature": 20.7,
-            "measuredAt": "2026-05-20T22:00:00Z",
+            "temperature": 20.6,
+            "measuredAt": "2026-05-20T23:00:00Z",
             "weather": {
-                "code": 500,
-                "description": "실 비",
-                "icon": "10d",
+                "code": 804,
+                "description": "온흐림",
+                "icon": "04d",
                 "temperature": {
-                    "actual": 17.73,
-                    "feelsLike": 18.01
+                    "actual": 17.56,
+                    "feelsLike": 17.83
                 },
                 "pressure": 1004,
                 "humidity": 94,
                 "visibility": 10000,
-                "windSpeed": 2.38,
-                "windDirection": 117,
+                "windSpeed": 2.05,
+                "windDirection": 101,
                 "sunrise": 1779308346,
                 "sunset": 1779359945
             }
         },
         {
             "site": "ANYANGCHEON",
-            "temperature": 18.7,
-            "measuredAt": "2026-05-20T22:00:00Z",
+            "temperature": 18.8,
+            "measuredAt": "2026-05-20T23:00:00Z",
             "weather": {
                 "code": 804,
                 "description": "온흐림",
                 "icon": "04d",
                 "temperature": {
-                    "actual": 17.11,
-                    "feelsLike": 17.36
+                    "actual": 17.06,
+                    "feelsLike": 17.3
                 },
                 "pressure": 1004,
                 "humidity": 95,
                 "visibility": 10000,
-                "windSpeed": 2.81,
-                "windDirection": 114,
-                "sunrise": 1779308361,
-                "sunset": 1779359918
+                "windSpeed": 2.37,
+                "windDirection": 104,
+                "sunrise": 1779308362,
+                "sunset": 1779359919
             }
         },
         {
             "site": "JUNGNANGCHEON",
-            "temperature": 18.3,
-            "measuredAt": "2026-05-20T22:00:00Z",
+            "temperature": 18.2,
+            "measuredAt": "2026-05-20T23:00:00Z",
             "weather": {
                 "code": 500,
                 "description": "실 비",
                 "icon": "10d",
                 "temperature": {
-                    "actual": 17.1,
-                    "feelsLike": 17.37
+                    "actual": 16.92,
+                    "feelsLike": 17.17
                 },
                 "pressure": 1004,
                 "humidity": 96,
                 "visibility": 10000,
                 "windSpeed": 1.77,
-                "windDirection": 104,
+                "windDirection": 96,
                 "sunrise": 1779308299,
-                "sunset": 1779359911
+                "sunset": 1779359912
             }
         },
         {
             "site": "TANCHEON",
-            "temperature": 18.1,
-            "measuredAt": "2026-05-20T22:00:00Z",
+            "temperature": 18.0,
+            "measuredAt": "2026-05-20T23:00:00Z",
             "weather": {
-                "code": 500,
-                "description": "실 비",
-                "icon": "10d",
+                "code": 804,
+                "description": "온흐림",
+                "icon": "04d",
                 "temperature": {
-                    "actual": 17.29,
-                    "feelsLike": 17.58
+                    "actual": 17.16,
+                    "feelsLike": 17.46
                 },
                 "pressure": 1004,
-                "humidity": 96,
+                "humidity": 97,
                 "visibility": 10000,
-                "windSpeed": 1.75,
-                "windDirection": 102,
+                "windSpeed": 1.65,
+                "windDirection": 91,
                 "sunrise": 1779308311,
                 "sunset": 1779359902
             }
