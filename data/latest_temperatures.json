@@ -1,45 +1,45 @@
 {
-    "updatedAt": "2026-06-01T10:00:02.583442463Z",
+    "updatedAt": "2026-06-01T11:00:02.493582935Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
-            "temperature": 24.8,
-            "measuredAt": "2026-06-01T09:00:00Z",
+            "temperature": 24.6,
+            "measuredAt": "2026-06-01T10:00:00Z",
             "weather": {
                 "code": 800,
                 "description": "맑음",
-                "icon": "01d",
+                "icon": "01n",
                 "temperature": {
-                    "actual": 24.06,
-                    "feelsLike": 23.91
+                    "actual": 26.06,
+                    "feelsLike": 26.06
                 },
                 "pressure": 1012,
-                "humidity": 53,
+                "humidity": 34,
                 "visibility": 10000,
-                "windSpeed": 3.09,
-                "windDirection": 150,
+                "windSpeed": 1.54,
+                "windDirection": 240,
                 "sunrise": 1780258393,
                 "sunset": 1780310846
             }
         },
         {
             "site": "ANYANGCHEON",
-            "temperature": 27.0,
-            "measuredAt": "2026-06-01T09:00:00Z",
+            "temperature": 26.5,
+            "measuredAt": "2026-06-01T10:00:00Z",
             "weather": {
                 "code": 803,
                 "description": "튼구름",
-                "icon": "04d",
+                "icon": "04n",
                 "temperature": {
-                    "actual": 25.32,
-                    "feelsLike": 24.9
+                    "actual": 25.06,
+                    "feelsLike": 24.77
                 },
-                "pressure": 1012,
-                "humidity": 38,
+                "pressure": 1013,
+                "humidity": 44,
                 "visibility": 10000,
-                "windSpeed": 2.57,
-                "windDirection": 290,
+                "windSpeed": 1.54,
+                "windDirection": 190,
                 "sunrise": 1780258410,
                 "sunset": 1780310817
             }
@@ -47,41 +47,41 @@
         {
             "site": "JUNGNANGCHEON",
             "temperature": 25.6,
-            "measuredAt": "2026-06-01T09:00:00Z",
+            "measuredAt": "2026-06-01T10:00:00Z",
             "weather": {
                 "code": 803,
                 "description": "튼구름",
-                "icon": "04d",
+                "icon": "04n",
                 "temperature": {
-                    "actual": 25.91,
-                    "feelsLike": 25.55
+                    "actual": 25.09,
+                    "feelsLike": 24.8
                 },
                 "pressure": 1013,
-                "humidity": 38,
+                "humidity": 44,
                 "visibility": 10000,
-                "windSpeed": 2.57,
-                "windDirection": 290,
+                "windSpeed": 1.54,
+                "windDirection": 190,
                 "sunrise": 1780258344,
-                "sunset": 1780310812
+                "sunset": 1780310813
             }
         },
         {
             "site": "TANCHEON",
-            "temperature": 26.0,
-            "measuredAt": "2026-06-01T09:00:00Z",
+            "temperature": 25.7,
+            "measuredAt": "2026-06-01T10:00:00Z",
             "weather": {
                 "code": 803,
                 "description": "튼구름",
-                "icon": "04d",
+                "icon": "04n",
                 "temperature": {
-                    "actual": 26.06,
-                    "feelsLike": 26.06
+                    "actual": 25.06,
+                    "feelsLike": 24.77
                 },
                 "pressure": 1013,
-                "humidity": 38,
+                "humidity": 44,
                 "visibility": 10000,
-                "windSpeed": 2.57,
-                "windDirection": 290,
+                "windSpeed": 1.54,
+                "windDirection": 190,
                 "sunrise": 1780258357,
                 "sunset": 1780310803
             }
