@@ -1,87 +1,87 @@
 {
-    "updatedAt": "2026-06-03T06:00:06.020340628Z",
+    "updatedAt": "2026-06-03T07:00:04.217459437Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
             "temperature": 25.2,
-            "measuredAt": "2026-06-03T05:00:00Z",
+            "measuredAt": "2026-06-03T06:00:00Z",
             "weather": {
                 "code": 804,
                 "description": "온흐림",
                 "icon": "04d",
                 "temperature": {
-                    "actual": 29.54,
-                    "feelsLike": 28.21
+                    "actual": 28.36,
+                    "feelsLike": 27.52
                 },
                 "pressure": 1003,
-                "humidity": 28,
+                "humidity": 33,
                 "visibility": 10000,
-                "windSpeed": 5.02,
-                "windDirection": 261,
+                "windSpeed": 5.18,
+                "windDirection": 262,
                 "sunrise": 1780431150,
                 "sunset": 1780483725
             }
         },
         {
             "site": "ANYANGCHEON",
-            "temperature": 30.6,
-            "measuredAt": "2026-06-03T05:00:00Z",
+            "temperature": 30.8,
+            "measuredAt": "2026-06-03T06:00:00Z",
             "weather": {
-                "code": 500,
-                "description": "실 비",
-                "icon": "10d",
+                "code": 804,
+                "description": "온흐림",
+                "icon": "04d",
                 "temperature": {
-                    "actual": 28.69,
-                    "feelsLike": 27.73
+                    "actual": 27.62,
+                    "feelsLike": 27.12
                 },
                 "pressure": 1003,
-                "humidity": 32,
+                "humidity": 36,
                 "visibility": 10000,
-                "windSpeed": 5.3,
-                "windDirection": 266,
-                "sunrise": 1780431167,
-                "sunset": 1780483693
+                "windSpeed": 4.83,
+                "windDirection": 265,
+                "sunrise": 1780431168,
+                "sunset": 1780483696
             }
         },
         {
             "site": "JUNGNANGCHEON",
             "temperature": 27.5,
-            "measuredAt": "2026-06-03T05:00:00Z",
+            "measuredAt": "2026-06-03T06:00:00Z",
             "weather": {
-                "code": 803,
-                "description": "튼구름",
+                "code": 804,
+                "description": "온흐림",
                 "icon": "04d",
                 "temperature": {
-                    "actual": 30.37,
-                    "feelsLike": 28.71
+                    "actual": 29.07,
+                    "feelsLike": 27.87
                 },
                 "pressure": 1003,
-                "humidity": 24,
+                "humidity": 29,
                 "visibility": 10000,
-                "windSpeed": 3.7,
+                "windSpeed": 5.0,
                 "windDirection": 265,
-                "sunrise": 1780431101,
+                "sunrise": 1780431102,
                 "sunset": 1780483692
             }
         },
         {
             "site": "TANCHEON",
-            "temperature": 28.2,
-            "measuredAt": "2026-06-03T05:00:00Z",
+            "temperature": 28.4,
+            "measuredAt": "2026-06-03T06:00:00Z",
             "weather": {
-                "code": 803,
-                "description": "튼구름",
+                "code": 804,
+                "description": "온흐림",
                 "icon": "04d",
                 "temperature": {
-                    "actual": 30.2,
-                    "feelsLike": 28.67
+                    "actual": 28.82,
+                    "feelsLike": 27.84
                 },
                 "pressure": 1003,
-                "humidity": 26,
+                "humidity": 32,
                 "visibility": 10000,
-                "windSpeed": 4.24,
-                "windDirection": 266,
+                "windSpeed": 5.18,
+                "windDirection": 265,
                 "sunrise": 1780431115,
                 "sunset": 1780483682
             }
