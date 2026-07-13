@@ -1,45 +1,45 @@
 {
-    "updatedAt": "2026-07-13T04:00:01.459993536Z",
+    "updatedAt": "2026-07-13T05:00:02.227428472Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
-            "temperature": 0.0,
-            "measuredAt": "2026-07-13T03:00:00Z",
+            "temperature": 24.9,
+            "measuredAt": "2026-07-13T04:00:00Z",
             "weather": {
                 "code": 801,
                 "description": "약간의 구름이 낀 하늘",
                 "icon": "02d",
                 "temperature": {
-                    "actual": 34.76,
-                    "feelsLike": 38.33
+                    "actual": 35.05,
+                    "feelsLike": 38.59
                 },
                 "pressure": 1008,
-                "humidity": 45,
+                "humidity": 44,
                 "visibility": 10000,
-                "windSpeed": 4.71,
-                "windDirection": 213,
+                "windSpeed": 4.94,
+                "windDirection": 225,
                 "sunrise": 1783887670,
                 "sunset": 1783940074
             }
         },
         {
             "site": "ANYANGCHEON",
-            "temperature": 30.7,
-            "measuredAt": "2026-07-13T03:00:00Z",
+            "temperature": 30.9,
+            "measuredAt": "2026-07-13T04:00:00Z",
             "weather": {
                 "code": 801,
                 "description": "약간의 구름이 낀 하늘",
                 "icon": "02d",
                 "temperature": {
-                    "actual": 33.91,
-                    "feelsLike": 37.55
+                    "actual": 34.15,
+                    "feelsLike": 37.73
                 },
                 "pressure": 1008,
-                "humidity": 48,
+                "humidity": 47,
                 "visibility": 10000,
-                "windSpeed": 4.38,
-                "windDirection": 212,
+                "windSpeed": 4.41,
+                "windDirection": 227,
                 "sunrise": 1783887687,
                 "sunset": 1783940045
             }
@@ -47,43 +47,43 @@
         {
             "site": "JUNGNANGCHEON",
             "temperature": 28.9,
-            "measuredAt": "2026-07-13T03:00:00Z",
+            "measuredAt": "2026-07-13T04:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
                 "icon": "03d",
                 "temperature": {
-                    "actual": 34.62,
-                    "feelsLike": 38.37
+                    "actual": 35.3,
+                    "feelsLike": 39.11
                 },
                 "pressure": 1008,
-                "humidity": 46,
+                "humidity": 44,
                 "visibility": 10000,
-                "windSpeed": 4.45,
-                "windDirection": 214,
+                "windSpeed": 4.8,
+                "windDirection": 220,
                 "sunrise": 1783887621,
                 "sunset": 1783940040
             }
         },
         {
             "site": "TANCHEON",
-            "temperature": 27.6,
-            "measuredAt": "2026-07-13T03:00:00Z",
+            "temperature": 28.0,
+            "measuredAt": "2026-07-13T04:00:00Z",
             "weather": {
-                "code": 802,
-                "description": "구름조금",
-                "icon": "03d",
+                "code": 801,
+                "description": "약간의 구름이 낀 하늘",
+                "icon": "02d",
                 "temperature": {
-                    "actual": 34.7,
-                    "feelsLike": 38.89
+                    "actual": 35.29,
+                    "feelsLike": 39.45
                 },
                 "pressure": 1008,
-                "humidity": 47,
+                "humidity": 45,
                 "visibility": 10000,
-                "windSpeed": 4.36,
-                "windDirection": 213,
-                "sunrise": 1783887635,
-                "sunset": 1783940030
+                "windSpeed": 4.6,
+                "windDirection": 220,
+                "sunrise": 1783887634,
+                "sunset": 1783940031
             }
         }
     ]
