@@ -1,87 +1,87 @@
 {
-    "updatedAt": "2026-07-14T12:00:04.418877925Z",
+    "updatedAt": "2026-07-14T13:00:05.128564709Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
             "temperature": 0.0,
-            "measuredAt": "2026-07-14T11:00:00Z",
+            "measuredAt": "2026-07-14T12:00:00Z",
             "weather": {
-                "code": 500,
-                "description": "실 비",
+                "code": 503,
+                "description": "매우 강한 비",
                 "icon": "10n",
                 "temperature": {
-                    "actual": 27.42,
-                    "feelsLike": 31.83
+                    "actual": 26.5,
+                    "feelsLike": 26.5
                 },
-                "pressure": 998,
-                "humidity": 89,
-                "visibility": 4074,
-                "windSpeed": 6.35,
-                "windDirection": 177,
+                "pressure": 997,
+                "humidity": 92,
+                "visibility": 8390,
+                "windSpeed": 8.69,
+                "windDirection": 196,
                 "sunrise": 1783974110,
                 "sunset": 1784026448
             }
         },
         {
             "site": "ANYANGCHEON",
-            "temperature": 27.6,
-            "measuredAt": "2026-07-14T11:00:00Z",
+            "temperature": 27.8,
+            "measuredAt": "2026-07-14T12:00:00Z",
             "weather": {
-                "code": 500,
-                "description": "실 비",
+                "code": 501,
+                "description": "보통 비",
                 "icon": "10n",
                 "temperature": {
-                    "actual": 27.25,
-                    "feelsLike": 31.22
+                    "actual": 26.29,
+                    "feelsLike": 26.29
                 },
                 "pressure": 998,
-                "humidity": 88,
-                "visibility": 4337,
-                "windSpeed": 6.57,
-                "windDirection": 181,
+                "humidity": 92,
+                "visibility": 10000,
+                "windSpeed": 8.08,
+                "windDirection": 197,
                 "sunrise": 1783974127,
                 "sunset": 1784026419
             }
         },
         {
             "site": "JUNGNANGCHEON",
-            "temperature": 28.2,
-            "measuredAt": "2026-07-14T11:00:00Z",
+            "temperature": 27.9,
+            "measuredAt": "2026-07-14T12:00:00Z",
             "weather": {
-                "code": 501,
-                "description": "보통 비",
+                "code": 502,
+                "description": "강한 비",
                 "icon": "10n",
                 "temperature": {
-                    "actual": 27.31,
-                    "feelsLike": 31.38
+                    "actual": 26.29,
+                    "feelsLike": 26.29
                 },
-                "pressure": 998,
-                "humidity": 88,
-                "visibility": 5517,
-                "windSpeed": 5.63,
-                "windDirection": 181,
+                "pressure": 997,
+                "humidity": 93,
+                "visibility": 3578,
+                "windSpeed": 6.82,
+                "windDirection": 193,
                 "sunrise": 1783974062,
                 "sunset": 1784026414
             }
         },
         {
             "site": "TANCHEON",
-            "temperature": 26.9,
-            "measuredAt": "2026-07-14T11:00:00Z",
+            "temperature": 26.5,
+            "measuredAt": "2026-07-14T12:00:00Z",
             "weather": {
-                "code": 500,
-                "description": "실 비",
+                "code": 502,
+                "description": "강한 비",
                 "icon": "10n",
                 "temperature": {
-                    "actual": 27.71,
-                    "feelsLike": 32.39
+                    "actual": 26.63,
+                    "feelsLike": 26.63
                 },
-                "pressure": 999,
-                "humidity": 87,
-                "visibility": 6024,
-                "windSpeed": 5.76,
-                "windDirection": 182,
+                "pressure": 997,
+                "humidity": 92,
+                "visibility": 3934,
+                "windSpeed": 6.67,
+                "windDirection": 194,
                 "sunrise": 1783974075,
                 "sunset": 1784026405
             }
