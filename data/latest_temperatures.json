@@ -1,47 +1,68 @@
 {
-    "updatedAt": "2026-07-23T17:00:08.547444263Z",
+    "updatedAt": "2026-07-23T18:00:09.789204777Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "ANYANGCHEON",
-            "temperature": 25.8,
-            "measuredAt": "2026-07-23T16:00:00Z",
+            "temperature": 25.7,
+            "measuredAt": "2026-07-23T17:00:00Z",
             "weather": {
-                "code": 802,
-                "description": "구름조금",
-                "icon": "03n",
+                "code": 801,
+                "description": "약간의 구름이 낀 하늘",
+                "icon": "02n",
                 "temperature": {
-                    "actual": 25.4,
+                    "actual": 25.37,
                     "feelsLike": 26.42
                 },
                 "pressure": 1009,
-                "humidity": 93,
+                "humidity": 94,
                 "visibility": 10000,
-                "windSpeed": 1.86,
-                "windDirection": 164,
+                "windSpeed": 1.55,
+                "windDirection": 148,
                 "sunrise": 1784838570,
                 "sunset": 1784890065
             }
         },
         {
             "site": "JUNGNANGCHEON",
-            "temperature": 24.3,
-            "measuredAt": "2026-07-23T16:00:00Z",
+            "temperature": 24.2,
+            "measuredAt": "2026-07-23T17:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
                 "icon": "03n",
                 "temperature": {
-                    "actual": 25.3,
-                    "feelsLike": 26.37
+                    "actual": 25.18,
+                    "feelsLike": 26.23
                 },
                 "pressure": 1009,
                 "humidity": 95,
                 "visibility": 10000,
-                "windSpeed": 1.46,
-                "windDirection": 154,
+                "windSpeed": 1.5,
+                "windDirection": 141,
                 "sunrise": 1784838508,
                 "sunset": 1784890057
+            }
+        },
+        {
+            "site": "TANCHEON",
+            "temperature": 24.1,
+            "measuredAt": "2026-07-23T17:00:00Z",
+            "weather": {
+                "code": 802,
+                "description": "구름조금",
+                "icon": "03n",
+                "temperature": {
+                    "actual": 25.46,
+                    "feelsLike": 26.52
+                },
+                "pressure": 1009,
+                "humidity": 94,
+                "visibility": 10000,
+                "windSpeed": 1.46,
+                "windDirection": 143,
+                "sunrise": 1784838519,
+                "sunset": 1784890049
             }
         },
         {
@@ -53,35 +74,14 @@
                 "description": "구름조금",
                 "icon": "03n",
                 "temperature": {
-                    "actual": 25.56,
-                    "feelsLike": 26.63
+                    "actual": 25.46,
+                    "feelsLike": 26.52
                 },
                 "pressure": 1009,
                 "humidity": 94,
                 "visibility": 10000,
-                "windSpeed": 1.56,
-                "windDirection": 157,
-                "sunrise": 1784838519,
-                "sunset": 1784890049
-            }
-        },
-        {
-            "site": "TANCHEON",
-            "temperature": 24.3,
-            "measuredAt": "2026-07-23T15:00:00Z",
-            "weather": {
-                "code": 802,
-                "description": "구름조금",
-                "icon": "03n",
-                "temperature": {
-                    "actual": 25.56,
-                    "feelsLike": 26.63
-                },
-                "pressure": 1009,
-                "humidity": 94,
-                "visibility": 10000,
-                "windSpeed": 1.56,
-                "windDirection": 157,
+                "windSpeed": 1.46,
+                "windDirection": 143,
                 "sunrise": 1784838519,
                 "sunset": 1784890049
             }
