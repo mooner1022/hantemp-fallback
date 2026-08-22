@@ -1,11 +1,11 @@
 {
-    "updatedAt": "2026-08-22T13:00:08.049547443Z",
+    "updatedAt": "2026-08-22T14:00:07.785088359Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
             "temperature": 27.4,
-            "measuredAt": "2026-08-22T12:00:00Z",
+            "measuredAt": "2026-08-22T13:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
@@ -18,7 +18,7 @@
                 "humidity": 100,
                 "visibility": 10000,
                 "windSpeed": 1.54,
-                "windDirection": 60,
+                "windDirection": 20,
                 "sunrise": 1787345635,
                 "sunset": 1787393840
             }
@@ -26,7 +26,7 @@
         {
             "site": "ANYANGCHEON",
             "temperature": 25.7,
-            "measuredAt": "2026-08-22T12:00:00Z",
+            "measuredAt": "2026-08-22T13:00:00Z",
             "weather": {
                 "code": 803,
                 "description": "튼구름",
@@ -39,15 +39,15 @@
                 "humidity": 100,
                 "visibility": 10000,
                 "windSpeed": 0.51,
-                "windDirection": 150,
+                "windDirection": 360,
                 "sunrise": 1787345641,
                 "sunset": 1787393822
             }
         },
         {
             "site": "JUNGNANGCHEON",
-            "temperature": 25.8,
-            "measuredAt": "2026-08-22T12:00:00Z",
+            "temperature": 25.7,
+            "measuredAt": "2026-08-22T13:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
@@ -60,7 +60,7 @@
                 "humidity": 100,
                 "visibility": 10000,
                 "windSpeed": 0.51,
-                "windDirection": 150,
+                "windDirection": 360,
                 "sunrise": 1787345590,
                 "sunset": 1787393804
             }
@@ -68,11 +68,11 @@
         {
             "site": "TANCHEON",
             "temperature": 25.2,
-            "measuredAt": "2026-08-22T12:00:00Z",
+            "measuredAt": "2026-08-22T13:00:00Z",
             "weather": {
-                "code": 802,
-                "description": "구름조금",
-                "icon": "03n",
+                "code": 803,
+                "description": "튼구름",
+                "icon": "04n",
                 "temperature": {
                     "actual": 23.09,
                     "feelsLike": 24.07
@@ -81,7 +81,7 @@
                 "humidity": 100,
                 "visibility": 10000,
                 "windSpeed": 0.51,
-                "windDirection": 150,
+                "windDirection": 360,
                 "sunrise": 1787345597,
                 "sunset": 1787393798
             }
