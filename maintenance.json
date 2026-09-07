@@ -1,12 +1,7 @@
 {
     "enabled": false,
-    "type": "PARTIAL",
-    "reason": "백엔드 마이그레이션 테스트",
-    "scheduledStart": "2026-03-14T07:10:00Z",
-    "scheduledEnd": "2026-03-15T13:10:00Z",
-    "affectedServices": [
-        "댐 정보"
-    ],
+    "type": "FULL",
+    "reason": "",
     "createdAt": "2025-10-19T18:59:30.272183800Z",
-    "updatedAt": "2026-09-07T03:41:36.091991094Z"
+    "updatedAt": "2026-09-07T04:57:03.305693542Z"
 }
