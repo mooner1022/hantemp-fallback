@@ -1,18 +1,30 @@
 {
-    "updatedAt": "2026-10-01T11:02:02.687637573Z",
-    "dataCount": 4,
+    "updatedAt": "2026-10-01T11:18:49.925317310Z",
+    "dataCount": 5,
     "damInfos": [
+        {
+            "site": {
+                "name": "대청",
+                "region": "금강",
+                "code": 3008110
+            },
+            "totalDisposal": 107.759,
+            "generatorDisposal": 107.759,
+            "spillwayDisposal": 0.0,
+            "otherDisposal": 0.0,
+            "measuredAt": "2026-10-01T11:00:00Z"
+        },
         {
             "site": {
                 "name": "안동",
                 "region": "낙동강",
                 "code": 2001110
             },
-            "totalDisposal": 89.798,
-            "generatorDisposal": 89.798,
+            "totalDisposal": 40.977,
+            "generatorDisposal": 40.977,
             "spillwayDisposal": 0.0,
             "otherDisposal": 0.0,
-            "measuredAt": "2026-10-01T10:00:00Z"
+            "measuredAt": "2026-10-01T11:00:00Z"
         },
         {
             "site": {
@@ -36,7 +48,7 @@
             "generatorDisposal": 0.0,
             "spillwayDisposal": 0.0,
             "otherDisposal": 0.0,
-            "measuredAt": "2026-10-01T10:00:00Z"
+            "measuredAt": "2026-10-01T11:00:00Z"
         },
         {
             "site": {
