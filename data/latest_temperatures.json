@@ -1,87 +1,87 @@
 {
-    "updatedAt": "2026-10-13T05:00:12.099307573Z",
+    "updatedAt": "2026-10-13T06:00:01.833580110Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
-            "temperature": 21.9,
-            "measuredAt": "2026-10-13T04:00:00Z",
+            "temperature": 22.1,
+            "measuredAt": "2026-10-13T05:00:00Z",
             "weather": {
                 "code": 804,
                 "description": "온흐림",
                 "icon": "04d",
                 "temperature": {
-                    "actual": 21.06,
-                    "feelsLike": 21.13
+                    "actual": 21.07,
+                    "feelsLike": 20.88
                 },
                 "pressure": 1012,
-                "humidity": 73,
+                "humidity": 63,
                 "visibility": 10000,
-                "windSpeed": 1.54,
-                "windDirection": 240,
+                "windSpeed": 4.88,
+                "windDirection": 266,
                 "sunrise": 1791841075,
                 "sunset": 1791881957
             }
         },
         {
             "site": "ANYANGCHEON",
-            "temperature": 23.1,
-            "measuredAt": "2026-10-13T04:00:00Z",
+            "temperature": 23.5,
+            "measuredAt": "2026-10-13T05:00:00Z",
             "weather": {
                 "code": 804,
                 "description": "온흐림",
                 "icon": "04d",
                 "temperature": {
-                    "actual": 19.3,
-                    "feelsLike": 19.43
+                    "actual": 20.7,
+                    "feelsLike": 20.55
                 },
-                "pressure": 1013,
-                "humidity": 82,
+                "pressure": 1012,
+                "humidity": 66,
                 "visibility": 10000,
-                "windSpeed": 1.03,
-                "windDirection": 240,
+                "windSpeed": 4.74,
+                "windDirection": 268,
                 "sunrise": 1791841063,
                 "sunset": 1791881958
             }
         },
         {
             "site": "JUNGNANGCHEON",
-            "temperature": 22.2,
-            "measuredAt": "2026-10-13T04:00:00Z",
+            "temperature": 22.3,
+            "measuredAt": "2026-10-13T05:00:00Z",
             "weather": {
-                "code": 804,
-                "description": "온흐림",
-                "icon": "04d",
+                "code": 500,
+                "description": "실 비",
+                "icon": "10d",
                 "temperature": {
-                    "actual": 19.14,
-                    "feelsLike": 19.25
+                    "actual": 20.6,
+                    "feelsLike": 20.41
                 },
                 "pressure": 1012,
-                "humidity": 82,
+                "humidity": 65,
                 "visibility": 10000,
-                "windSpeed": 1.03,
-                "windDirection": 240,
-                "sunrise": 1791841036,
+                "windSpeed": 4.45,
+                "windDirection": 269,
+                "sunrise": 1791841037,
                 "sunset": 1791881914
             }
         },
         {
             "site": "TANCHEON",
-            "temperature": 23.0,
-            "measuredAt": "2026-10-13T04:00:00Z",
+            "temperature": 23.4,
+            "measuredAt": "2026-10-13T05:00:00Z",
             "weather": {
                 "code": 804,
                 "description": "온흐림",
                 "icon": "04d",
                 "temperature": {
-                    "actual": 19.12,
-                    "feelsLike": 19.23
+                    "actual": 20.82,
+                    "feelsLike": 20.65
                 },
                 "pressure": 1012,
-                "humidity": 82,
+                "humidity": 65,
                 "visibility": 10000,
-                "windSpeed": 1.03,
-                "windDirection": 240,
+                "windSpeed": 4.35,
+                "windDirection": 274,
                 "sunrise": 1791841035,
                 "sunset": 1791881918
             }
