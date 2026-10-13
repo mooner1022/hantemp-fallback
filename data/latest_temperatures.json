@@ -1,89 +1,89 @@
 {
-    "updatedAt": "2026-10-13T10:00:02.142278607Z",
+    "updatedAt": "2026-10-13T11:00:02.659704900Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
-            "temperature": 22.3,
-            "measuredAt": "2026-10-13T09:00:00Z",
+            "temperature": 22.2,
+            "measuredAt": "2026-10-13T10:00:00Z",
             "weather": {
                 "code": 801,
                 "description": "약간의 구름이 낀 하늘",
                 "icon": "02n",
                 "temperature": {
-                    "actual": 17.79,
-                    "feelsLike": 17.45
+                    "actual": 17.56,
+                    "feelsLike": 17.25
                 },
-                "pressure": 1013,
-                "humidity": 70,
+                "pressure": 1014,
+                "humidity": 72,
                 "visibility": 10000,
-                "windSpeed": 5.63,
+                "windSpeed": 6.03,
                 "windDirection": 303,
-                "sunrise": 1791841075,
-                "sunset": 1791881957
+                "sunrise": 1791841076,
+                "sunset": 1791881958
             }
         },
         {
             "site": "ANYANGCHEON",
-            "temperature": 24.1,
-            "measuredAt": "2026-10-13T09:00:00Z",
+            "temperature": 23.7,
+            "measuredAt": "2026-10-13T10:00:00Z",
             "weather": {
                 "code": 801,
                 "description": "약간의 구름이 낀 하늘",
                 "icon": "02n",
                 "temperature": {
-                    "actual": 17.4,
-                    "feelsLike": 16.97
+                    "actual": 17.27,
+                    "feelsLike": 16.88
                 },
                 "pressure": 1013,
-                "humidity": 68,
+                "humidity": 70,
                 "visibility": 10000,
-                "windSpeed": 5.77,
-                "windDirection": 301,
+                "windSpeed": 5.93,
+                "windDirection": 306,
                 "sunrise": 1791841063,
                 "sunset": 1791881957
             }
         },
         {
             "site": "JUNGNANGCHEON",
-            "temperature": 22.5,
-            "measuredAt": "2026-10-13T09:00:00Z",
+            "temperature": 22.6,
+            "measuredAt": "2026-10-13T10:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
                 "icon": "03n",
                 "temperature": {
-                    "actual": 17.17,
+                    "actual": 17.12,
                     "feelsLike": 16.74
                 },
                 "pressure": 1013,
-                "humidity": 69,
+                "humidity": 71,
                 "visibility": 10000,
-                "windSpeed": 5.74,
-                "windDirection": 299,
-                "sunrise": 1791841037,
-                "sunset": 1791881914
+                "windSpeed": 6.14,
+                "windDirection": 298,
+                "sunrise": 1791841038,
+                "sunset": 1791881915
             }
         },
         {
             "site": "TANCHEON",
-            "temperature": 23.3,
-            "measuredAt": "2026-10-13T09:00:00Z",
+            "temperature": 23.1,
+            "measuredAt": "2026-10-13T10:00:00Z",
             "weather": {
                 "code": 802,
                 "description": "구름조금",
                 "icon": "03n",
                 "temperature": {
                     "actual": 17.41,
-                    "feelsLike": 16.96
+                    "feelsLike": 17.03
                 },
                 "pressure": 1013,
-                "humidity": 67,
+                "humidity": 70,
                 "visibility": 10000,
-                "windSpeed": 5.41,
-                "windDirection": 298,
-                "sunrise": 1791841033,
-                "sunset": 1791881917
+                "windSpeed": 5.97,
+                "windDirection": 300,
+                "sunrise": 1791841035,
+                "sunset": 1791881918
             }
         }
     ]
