@@ -1,45 +1,45 @@
 {
-    "updatedAt": "2026-10-14T14:00:05.865528042Z",
+    "updatedAt": "2026-10-14T15:00:06.303728381Z",
     "dataCount": 4,
     "temperatures": [
         {
             "site": "SEONYU",
-            "temperature": 21.1,
-            "measuredAt": "2026-10-14T13:00:00Z",
+            "temperature": 20.9,
+            "measuredAt": "2026-10-14T14:00:00Z",
             "weather": {
                 "code": 801,
                 "description": "약간의 구름이 낀 하늘",
                 "icon": "02n",
                 "temperature": {
-                    "actual": 16.06,
-                    "feelsLike": 15.73
+                    "actual": 15.57,
+                    "feelsLike": 14.96
                 },
                 "pressure": 1020,
-                "humidity": 77,
+                "humidity": 68,
                 "visibility": 10000,
-                "windSpeed": 2.57,
-                "windDirection": 260,
-                "sunrise": 1791927531,
-                "sunset": 1791968272
+                "windSpeed": 2.37,
+                "windDirection": 267,
+                "sunrise": 1792013987,
+                "sunset": 1792054588
             }
         },
         {
             "site": "ANYANGCHEON",
             "temperature": 20.7,
-            "measuredAt": "2026-10-14T13:00:00Z",
+            "measuredAt": "2026-10-14T14:00:00Z",
             "weather": {
                 "code": 800,
                 "description": "맑음",
                 "icon": "01n",
                 "temperature": {
-                    "actual": 14.82,
-                    "feelsLike": 13.87
+                    "actual": 15.31,
+                    "feelsLike": 14.7
                 },
                 "pressure": 1020,
-                "humidity": 58,
+                "humidity": 69,
                 "visibility": 10000,
-                "windSpeed": 2.57,
-                "windDirection": 220,
+                "windSpeed": 2.37,
+                "windDirection": 281,
                 "sunrise": 1791927518,
                 "sunset": 1791968273
             }
@@ -47,43 +47,43 @@
         {
             "site": "JUNGNANGCHEON",
             "temperature": 19.8,
-            "measuredAt": "2026-10-14T13:00:00Z",
+            "measuredAt": "2026-10-14T14:00:00Z",
             "weather": {
                 "code": 800,
                 "description": "맑음",
                 "icon": "01n",
                 "temperature": {
-                    "actual": 15.03,
-                    "feelsLike": 14.1
+                    "actual": 15.4,
+                    "feelsLike": 14.75
                 },
                 "pressure": 1020,
-                "humidity": 58,
+                "humidity": 67,
                 "visibility": 10000,
-                "windSpeed": 2.57,
-                "windDirection": 220,
-                "sunrise": 1791927492,
-                "sunset": 1791968229
+                "windSpeed": 1.54,
+                "windDirection": 247,
+                "sunrise": 1792013948,
+                "sunset": 1792054544
             }
         },
         {
             "site": "TANCHEON",
-            "temperature": 21.4,
-            "measuredAt": "2026-10-14T13:00:00Z",
+            "temperature": 21.1,
+            "measuredAt": "2026-10-14T14:00:00Z",
             "weather": {
                 "code": 800,
                 "description": "맑음",
                 "icon": "01n",
                 "temperature": {
-                    "actual": 15.06,
-                    "feelsLike": 14.14
+                    "actual": 15.69,
+                    "feelsLike": 15.06
                 },
                 "pressure": 1020,
-                "humidity": 58,
+                "humidity": 67,
                 "visibility": 10000,
-                "windSpeed": 2.57,
-                "windDirection": 220,
-                "sunrise": 1791927490,
-                "sunset": 1791968234
+                "windSpeed": 1.58,
+                "windDirection": 254,
+                "sunrise": 1791927489,
+                "sunset": 1791968232
             }
         }
     ]
