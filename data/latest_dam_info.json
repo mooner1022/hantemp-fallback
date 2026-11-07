@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-11-07T07:19:09.397297561Z",
-    "dataCount": 3,
+    "updatedAt": "2026-11-07T08:00:09.536468742Z",
+    "dataCount": 5,
     "damInfos": [
         {
             "site": {
@@ -28,12 +28,36 @@
         },
         {
             "site": {
+                "name": "청평",
+                "region": "한강",
+                "code": 1015310
+            },
+            "totalDisposal": 185.27,
+            "generatorDisposal": 185.27,
+            "spillwayDisposal": 0.0,
+            "otherDisposal": 0.0,
+            "measuredAt": "2026-11-07T07:00:00Z"
+        },
+        {
+            "site": {
                 "name": "충주",
                 "region": "한강",
                 "code": 1003110
             },
             "totalDisposal": 160.497,
             "generatorDisposal": 160.497,
+            "spillwayDisposal": 0.0,
+            "otherDisposal": 0.0,
+            "measuredAt": "2026-11-07T07:00:00Z"
+        },
+        {
+            "site": {
+                "name": "팔당",
+                "region": "한강",
+                "code": 1017310
+            },
+            "totalDisposal": 139.87,
+            "generatorDisposal": 139.87,
             "spillwayDisposal": 0.0,
             "otherDisposal": 0.0,
             "measuredAt": "2026-11-07T07:00:00Z"
